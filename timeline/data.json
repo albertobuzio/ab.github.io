@@ -1,0 +1,423 @@
+{
+    "scale": "human",
+	"title": {
+		        "media": {
+		            "caption": "",
+		            "credit": "<a href=\"http://alber.to.it\" target=_blank>alber.to.it</a>",
+		            "url": "img/ab_logo-400.png",
+		            "thumb": 	""
+		        },
+	            "text": {
+	                "headline": "<span class=\"abLetter\">a</span>lberto <span class=\"abLetter\">b</span>uzio",
+	                "text": "<b>Design Thinking for Experience Innovation</b>"
+	            }
+	    },
+    "events": [
+        {
+            "start_date": {
+                "year":			"2008",
+                "month":		"",
+                "day": 			"",
+                "hour": 		"",
+                "minute": 		"",
+                "second": 		"",
+                "millisecond": 	"",
+                "format": 		""
+            },
+            "end_date": {
+                "year":			"2012",
+                "month":		"09",
+                "day": 			"18",
+                "hour": 		"",
+                "minute": 		"",
+                "second": 		"",
+                "millisecond": 	"",
+                "format": 		""
+            },
+			"group": "",
+            "media": {
+                "caption": "",
+                "credit": "",
+                "url": "img/Politecnico_di_Torino_-_Logo.svg",
+                "thumb": 	""
+            },
+            "text": {
+                "headline": "Cinema and Media Engineering",
+                "text": "<b>Polytechnic of Turin</b></br></br>MULTIdisciplinary</br>- computer science for new media</br>- communication strategies in new contexts of digital production"
+            }
+        },
+        {
+            "start_date": {
+                "year":			"2008",
+                "month":		"",
+                "day": 			"",
+                "hour": 		"",
+                "minute": 		"",
+                "second": 		"",
+                "millisecond": 	"",
+                "format": 		""
+            },
+            "end_date": {
+                "year":			"2010",
+                "month":		"",
+                "day": 			"",
+                "hour": 		"",
+                "minute": 		"",
+                "second": 		"",
+                "millisecond": 	"",
+                "format": 		""
+            },
+			"group": "",
+            "media": {
+                "caption": "",
+                "credit": "<a href=\"http://www.officinesintetiche.it\" target=_blank>www.officinesintetiche.it</a>",
+                "url": "img/officinesintetiche.jpg",
+                "thumb": 	""
+            },
+            "text": {
+                "headline": "Officine Sintetiche",
+                "text": "<b>Interaction and Light Designer</b></br></br>Student collaborator for interdisciplinary projects with main focus on interactive performing media art."
+            }
+        },
+        {
+            "start_date": {
+                "year":			"2011",
+                "month":		"09",
+                "day": 			"",
+                "hour": 		"",
+                "minute": 		"",
+                "second": 		"",
+                "millisecond": 	"",
+                "format": 		""
+            },
+            "end_date": {
+                "year":			"2012",
+                "month":		"03",
+                "day": 			"",
+                "hour": 		"",
+                "minute": 		"",
+                "second": 		"",
+                "millisecond": 	"",
+                "format": 		""
+            },
+			"group": "",
+            "media": {
+                "caption": "",
+                "credit": "",
+                "url": "https://vimeo.com/53584854",
+                "thumb": 	""
+            },
+            "text": {
+                "headline": "Internship at Euphon Communication",
+                "text": "<b>Interaction Designer</b></br></br>Design and implementation of interactive installations based on Natural User Interface for exhibition (Steve Jobs 1955-2011 - Turin) and museum experience (Museo Interattivo del Cinema – Milan)."
+            }
+        },
+        {
+            "start_date": {
+                "year":			"2012",
+                "month":		"09",
+                "day": 			"17",
+                "hour": 		"",
+                "minute": 		"",
+                "second": 		"",
+                "millisecond": 	"",
+                "format": 		""
+            },
+            
+			"group": "",
+            "media": {
+                "caption": "",
+                "credit": "",
+                "url": "<blockquote>...the main features of interactive multimedia exhibits and Natural Users Interfaces (NUI) aiming at combining these two seemingly distant worlds through the development of an interactive multimedia installation provided with a natural interface...</blockquote>",
+                "thumb": 	""
+            },
+            "text": {
+                "headline": "Master of Science",
+                "text": "<b>Cinema and Media Engineering</b></br></br>Thesis \"Natural User Interfaces for Interactive Multimedia Exhibits\"</br></br>- The first chapter is about the recent changes in exhibits</br>- The second chapter focuses on the human-computer interaction and on the principles that rule natural interfaces.</br>- The third chapter is based on a research on NUI, realised through interviews with various experts of different subjects, such as cognitive psychology, usability and interaction design.</br>- The fourth chapter goes on analysing both the software and hardware solutions useful for the creation of interactive multimedia exhibit installations.</br>- The fifth chapter is a short outlook on the future of NUI technologies and trends."
+            }
+        },
+        {
+            "start_date": {
+                "year":			"2013",
+                "month":		"04",
+                "day": 			"",
+                "hour": 		"",
+                "minute": 		"",
+                "second": 		"",
+                "millisecond": 	"",
+                "format": 		""
+            },
+            "end_date": {
+                "year":			"2013",
+                "month":		"10",
+                "day": 			"",
+                "hour": 		"",
+                "minute": 		"",
+                "second": 		"",
+                "millisecond": 	"",
+                "format": 		""
+            },
+			"group": "",
+            "media": {
+                "caption": "",
+                "credit": "",
+                "url": "img/FCA.svg",
+                "thumb": 	""
+            },
+            "text": {
+                "headline": "RE:Lab",
+                "text": "<b>Human Machine Interface</b> consultant at Fiat Chrysler Automobiles</br></br>Infotainment interfaces engineering and usability analysis for Italian and international market."
+            }
+        },
+        {
+            "start_date": {
+                "year":			"2013",
+                "month":		"10",
+                "day": 			"",
+                "hour": 		"",
+                "minute": 		"",
+                "second": 		"",
+                "millisecond": 	"",
+                "format": 		""
+            },
+            "end_date": {
+                "year":			"2015",
+                "month":		"09",
+                "day": 			"",
+                "hour": 		"",
+                "minute": 		"",
+                "second": 		"",
+                "millisecond": 	"",
+                "format": 		""
+            },
+			"group": "",
+            "media": {
+                "caption": "",
+                "credit": "<a href=\"http://www.designgang.net/\" target=_blank>www.designgang.net</a>",
+                "url": "img/gang.png",
+                "thumb": 	""
+            },
+            "text": {
+                "headline": "Design Gang Network",
+                "text": "<b>UX Designer and Front-End Developer</b></br></br>Design user interfaces and experiences of responsive web sites and web app for SMEs and Large Enterprises.</br>Research and prototype IoT/IoD systems for public and private projects."
+            }
+        },
+        {
+            "start_date": {
+                "year":			"2014",
+                "month":		"01",
+                "day": 			"",
+                "hour": 		"",
+                "minute": 		"",
+                "second": 		"",
+                "millisecond": 	"",
+                "format": 		""
+            },
+            "end_date": {
+                "year":			"2014",
+                "month":		"03",
+                "day": 			"",
+                "hour": 		"",
+                "minute": 		"",
+                "second": 		"",
+                "millisecond": 	"",
+                "format": 		""
+            },
+			"group": "",
+            "media": {
+                "caption": "",
+                "credit": "",
+                "url": "img/IED.jpg",
+                "thumb": 	""
+            },
+            "text": {
+                "headline": "Istituto Europeo di Design",
+                "text": "<b>Interaction Design Professor</b> at IED</br></br>Applied Lab about interaction design fundamentals.</br>From concept to prototype"
+            }
+        },
+        {
+            "start_date": {
+                "year":			"2014",
+                "month":		"04",
+                "day": 			"",
+                "hour": 		"",
+                "minute": 		"",
+                "second": 		"",
+                "millisecond": 	"",
+                "format": 		""
+            },
+			"group": "",
+            "media": {
+                "caption": "",
+                "credit": "<a href=\"http://www.associazionecraft.org\" target=_blank>www.associazionecraft.org</a>",
+                "url": "img/craft.jpg",
+                "thumb": 	""
+            },
+            "text": {
+                "headline": "CRAFT",
+                "text": "<b>Centro Ricerca Arte Formazione Teatro (CRAFT) Founder</b></br></br>Theatre as Social Lab </br>CRAFT is \"not tech start-up\" selected by incubator of <i>Polo Universitario Asti Studi Superiori, Fondazione Cassa di Risparmio di Asti</i> and <i>Municipality of Asti</i></br></br>3 CRAFT strengths:</br>- theatre approach as professional courses methodology</br>- Spazio KOR (<a href=\"http://www.spaziokor.it/\" target=_blank>www.spaziokor.it</a>)</br>- strong local network of professionals, public administration and private organizations"
+            }
+        },
+        {
+            "start_date": {
+                "year":			"2015",
+                "month":		"09",
+                "day": 			"",
+                "hour": 		"",
+                "minute": 		"",
+                "second": 		"",
+                "millisecond": 	"",
+                "format": 		""
+            },
+            "end_date": {
+                "year":			"2018",
+                "month":		"09",
+                "day": 			"",
+                "hour": 		"",
+                "minute": 		"",
+                "second": 		"",
+                "millisecond": 	"",
+                "format": 		""
+            },
+			"group": "",
+            "media": {
+                "caption": "",
+                "credit": "",
+                "url": "img/ISMB.png",
+                "thumb": 	""
+            },
+            "text": {
+                "headline": "Istituto Superiore Mario Boella",
+                "text": "<b>UX and IxD Researcher</b> at ISMB</br></br>Concept and Design, Prototype and Test innovative solutions for user experience, human machine interface and data visualization."
+            }
+        },
+        {
+            "start_date": {
+                "year":			"2015",
+                "month":		"09",
+                "day": 			"",
+                "hour": 		"",
+                "minute": 		"",
+                "second": 		"",
+                "millisecond": 	"",
+                "format": 		""
+            },
+            "end_date": {
+                "year":			"2015",
+                "month":		"12",
+                "day": 			"",
+                "hour": 		"",
+                "minute": 		"",
+                "second": 		"",
+                "millisecond": 	"",
+                "format": 		""
+            },
+			"group": "",
+            "media": {
+                "caption": "",
+                "credit": "",
+                "url": "img/bsense.png",
+                "thumb": 	""
+            },
+            "text": {
+                "headline": "b.sense",
+                "text": "<b>IxD and UX Research project</b> at ISMB</br></br>The project aims to design and prototype at a MVP level of detail a social platform for monitoring sustainable mobility and air pollution in urban areas. It involves the design and implementation of pollution sensor, smartphone apps, a web platform with special focus on gamification, social netwoks and data visualization. All within an overall Living Lab framework."
+            }
+        },
+        {
+            "start_date": {
+                "year":			"2016",
+                "month":		"07",
+                "day": 			"",
+                "hour": 		"",
+                "minute": 		"",
+                "second": 		"",
+                "millisecond": 	"",
+                "format": 		""
+            },
+            "end_date": {
+                "year":			"2017",
+                "month":		"11",
+                "day": 			"30",
+                "hour": 		"",
+                "minute": 		"",
+                "second": 		"",
+                "millisecond": 	"",
+                "format": 		""
+            },
+			"group": "",
+            "media": {
+                "caption": "",
+                "credit": "",
+                "url": "img/iao.png",
+                "thumb": 	""
+            },
+            "text": {
+                "headline": "Info... Always On!",
+                "text": "<b>UX Research project</b> at ISMB</br></br>The project aims to make public communication for young people more effective and findable, and so to increase their social inclusion and active participationin civic life. Following the Living Lab approach and in the realm of user-centered design, the project builds new solutions and strives to engage youth into partecipatory process, to co-create new concepts, to explore related scenarios and usages, and to assess new technologies and early-stage artifacts."
+            }
+        },
+        {
+            "start_date": {
+                "year":			"2016",
+                "month":		"03",
+                "day": 			"",
+                "hour": 		"",
+                "minute": 		"",
+                "second": 		"",
+                "millisecond": 	"",
+                "format": 		""
+            },
+            "end_date": {
+                "year":			"2017",
+                "month":		"06",
+                "day": 			"15",
+                "hour": 		"",
+                "minute": 		"",
+                "second": 		"",
+                "millisecond": 	"",
+                "format": 		""
+            },
+			"group": "",
+            "media": {
+                "caption": "",
+                "credit": "",
+                "url": "img/levelup.png",
+                "thumb": 	""
+            },
+            "text": {
+                "headline": "Virtual Reality for Special Educational Needs",
+                "text": "<b>UX Research project</b> at ISMB</br></br>Research about the use of VR technologies in the educational field to increase quality learning materials and to create more authentic learning opportunities.</br><span style=\"font-size: 0.6em\"><a href=\"http://dl.acm.org/citation.cfm?id=3038541\" target=_blank>Virtual Reality for Special Educational Needs</a> - Proceedings of the 2017 ACM Workshop on Intelligent Interfaces for Ubiquitous and Smart Learning</span>"
+            }
+        },
+        {
+            "background": {
+                "color": "#000",
+                "opacity": 50,
+                "url": null
+            },
+            "media": {
+		            "caption": "",
+		            "credit": "<a href=\"http://alber.to.it\" target=_blank>alber.to.it</a>",
+		            "url": "img/ab_logo-400-inv.png",
+		            "thumb": 	""
+		        },
+            "start_date": {
+                "year":			"2018",
+                "month":		"",
+                "day": 			"",
+                "hour": 		"",
+                "minute": 		"",
+                "second": 		"",
+                "millisecond": 	"",
+                "thumbnail": 	"",
+                "format": 		""
+            },
+            "text": {
+                "headline": "&nbsp;&nbsp; >> 20__",
+                "text": "<b>Endlessly Curious</b>"
+            },
+            "unique_id": ""
+        }
+    ]
+}

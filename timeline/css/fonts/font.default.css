@@ -6,7 +6,7 @@
     This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0.
     If a copy of the MPL was not distributed with this file, You can obtain one at http://mozilla.org/MPL/2.0/.
 */
-@import url(https://fonts.googleapis.com/css?family=Josefin+Sans:300);
+@import url(https://fonts.googleapis.com/css?family=Poiret+One);
 .tl-timeline{font-family: "Poiret One", "Helvetica Neue", Helvetica, Arial, sans-serif;font-weight:400;font-size:16px;line-height:1.3em}
 .tl-timeline h1,.tl-timeline h2,.tl-timeline h3,.tl-timeline h4,.tl-timeline h5,.tl-timeline h6{font-family: "Poiret One", "Helvetica Neue", Helvetica, Arial, sans-serif;font-weight:700;font-size:46px;line-height:46px}
 .tl-timeline h2.tl-headline-title{font-size:58px;line-height:58px}

@@ -6,7 +6,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
+    <meta name="description" content="alberto buzio - User Experience and Interaction Designer">
     <meta name="author" content="alberto buzio">
 
     <title>ab :)</title>
@@ -20,8 +20,8 @@
     <!-- Custom Fonts -->
     <link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
     <link href="https://fonts.googleapis.com/css?family=Poiret+One" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300" rel="stylesheet">
 
-    
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
@@ -34,34 +34,34 @@
 <body id="page-top" class="index">
 
     <!-- Navigation -->
-    <nav id="mainNav" class="navbar navbar-default navbar-fixed-top navbar-custom">
+    <nav id="mainNav" class="navbar navbar-default navbar-fixed-bottom navbar-custom">
         <div class="container">
             <!-- Brand and toggle get grouped for better mobile display -->
             <div class="navbar-header page-scroll">
-<!--                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-                    <span class="sr-only">Toggle navigation</span> Menu <i class="fa fa-bars"></i>
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span><i class="fa fa-bars"></i>
                 </button>
--->                <a class="navbar-brand" href="#"><span class="abLetter">a</span>lberto <span class="abLetter">b</span>uzio</a>
+                <a class="navbar-brand" href="#"><span class="abLetter">a</span>lberto <span class="abLetter">b</span>uzio</a>
             </div>
 
             <!-- Collect the nav links, forms, and other content for toggling -->
-<!--            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
                     <li class="hidden">
                         <a href="#page-top"></a>
                     </li>
                     <li class="page-scroll">
-                        <a href="#portfolio">Portfolio</a>
+                        <a href="#about"><span class="abLetter">about</span></a>
+                    </li>
+                    <!--<li class="page-scroll">
+                        <a href="#portfolio"><span class="abLetter">portfolio</span></a>
                     </li>
                     <li class="page-scroll">
-                        <a href="#about">About</a>
-                    </li>
-                    <li class="page-scroll">
-                        <a href="#contact">Contact</a>
-                    </li>
+                        <a href="#contact"><span class="abLetter">contact</span></a>
+                    </li>-->
                 </ul>
             </div>
--->            <!-- /.navbar-collapse -->
+            <!-- /.navbar-collapse -->
         </div>
         <!-- /.container-fluid -->
     </nav>
@@ -73,43 +73,175 @@
                 <div class="col-lg-12">
                     <svg version="1.1" id="ab_logo" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="200px" height="200px" viewBox="200.5 600.5 256 256" enable-background="new 200.5 600.5 256 256" xml:space="preserve">
                         <g class="ab_logo1">
-                            <path fill="none" stroke="#000" stroke-width="3" stroke-miterlimit="10" d="M273.247,737.994 c-35.759,0-64.747-29.006-64.747-64.747c0-35.765,28.988-64.747,64.747-64.747c35.741,0,64.743,28.982,64.743,64.747"/>
+                            <path fill="none" stroke="#333" stroke-width="3" stroke-miterlimit="10" d="M273.247,737.994 c-35.759,0-64.747-29.006-64.747-64.747c0-35.765,28.988-64.747,64.747-64.747c35.741,0,64.743,28.982,64.743,64.747"/>
                         </g>
 
                         <g class="ab_logo1">    
-                            <path fill="none" stroke="#000" stroke-width="3" stroke-miterlimit="10" d="M383.752,719.012c35.772,0,64.748,29,64.748,64.739 c0,35.773-28.976,64.749-64.748,64.749c-35.74,0-64.734-28.976-64.734-64.749"/>
+                            <path fill="none" stroke="#333" stroke-width="3" stroke-miterlimit="10" d="M383.752,719.012c35.772,0,64.748,29,64.748,64.739 c0,35.773-28.976,64.749-64.748,64.749c-35.74,0-64.734-28.976-64.734-64.749"/>
                         </g>
 
                         <g class="ab_logo2">    
-                            <line fill="none" stroke="#000" stroke-width="3" stroke-miterlimit="10" x1="337.99" y1="673" x2="337.99" y2="737.994"/>
+                            <line fill="none" stroke="#333" stroke-width="3" stroke-miterlimit="10" x1="337.99" y1="673" x2="337.99" y2="737.994"/>
                         </g>
 
                         <g class="ab_logo2">    
-                            <line fill="none" stroke="#000" stroke-width="3" stroke-miterlimit="10" x1="319.018" y1="785" x2="319.018" y2="673.247"/>
+                            <line fill="none" stroke="#333" stroke-width="3" stroke-miterlimit="10" x1="319.018" y1="785" x2="319.018" y2="673.247"/>
                         </g>
                     </svg>
-                    <!--ab <img class="img-responsive" src="img/profile.png" alt="">-->
                     <div class="intro-text">
-                        <span class="name"></span>
-                        <span class="skills"></span>
+                        <div id="skills"></div>
+                        <span id="presentation"></span>
                     </div>
                 </div>
             </div>
         </div>
     </header>
-    <!- Footer ->
+    
+    <!-- About Section -->
+    <section class="success" id="about">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2><span class="abLetter">C</span>rossdisciplinary AND <span class="abLetter">I</span>nterdisciplinary</h2>
+                    <h3>competencies on the boundary between</h3>
+                    <hr>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-4 col-lg-offset-2">
+                    <p><b>Design Thinking</b> methodology to understand <b>users needs</b>, behaviors and contexts, redefine problems and create innovative solutions to prototype and test.</p>
+                    <p>I use creativity driven by people centered design to</p>
+                    <ul class="small">
+                        <li>explore human complexity and design simple experiences</li>
+                        <li>craft intuitive, accessible, fun and even magical interaction</li>
+                        <li>communicate the impacts of innovation</li>
+                        <li>develop users engagement</li>
+                    </ul>                                            
+                </div>
+                <div class="col-lg-4">
+                    <p><b>Functional Engineering</b> approach to manage <b>technological complexity</b>, define new processes and identify product and use requirements.</p>
+                    <p>I face technological challenges with knowledge and</p>
+                    <ul class="small">
+                        <li>strong analytical skills</li>
+                        <li>sensitivity toward business requirements</li>
+                        <li>unwavering commitment to quality</li>
+                        <li>decisions meticulously thought out, studied and researched</li>
+                    </ul>
+                    <br>
+                </div>
+                <div class="col-lg-8 col-lg-offset-2">
+                    <p>I've strong collaborative work ethic and I want bring to my work the strength of synergistically manage all aspects of design process and interact with all the actors involved: from figures highly specialized in technology to end-users, from stakeholders to communication manager and marketing analysts.</p>                    
+                </div>
+                <div class="col-lg-8 col-lg-offset-2">
+                    <h3>Formal Education</h3>
+                    <p>Since university studies I chose multidisciplinary course: <a href="https://didattica.polito.it/laurea_magistrale/ingegneria_cinema/en/presentation" target="_blank">Cinema and Media Engineering</a> that combine the knowledge of ICT with cultural and aesthetic ones <i>"unique in the Italian and European panorama, it brings together technological and application skills, typical of Engineering, with aspects linked to the world of communication and cultural industries"</i></p>
+                    <p>I focused on my passion about interaction design during the master thesis (M.Sc.) with a dissertation about <a href="https://www.dropbox.com/s/hxvms3cx5jdeqe6/ALBERTO%20BUZIO%20-%20Interfacce%20Naturali%20per%20Esposizioni%20Museali%20Multimediali%20Interattive.pdf" target="_blank">"natural user interfaces for interactive multimedia exhibits"</a>. I investigated new Human-Computer Interface through the development of an interactive multimedia installation and theotetical reseach about user experience, usability, cognitive psychology and technologies for design and art.</p>
+                    <h4>But proactive continuous learning and endlessly curiosity about people and technology are my strategy to better design and lead innovation</h4>
+                    <br><br>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2>work <span class="abLetter">M</span>ethodology adopted</h2>
+                    <h3>story of simple but powerful toolset</h3>
+                    <hr>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2">
+                    <p>An ethnography and empathy approach as <b>active story-listener</b> with user interviews, focus group, living lab, field visits, surveys, business briefing, technical meetings, lab research, benchmark studies, online experiments</p>
+                    <p>and translate the findings into <b>valuable stories to tell</b> with maps, canvas, personas, scenarios, customer journeys</p>
+                    <p>and <b>ideate new stories</b> thanks to lateral thinking, brainstorming, enthusiasm and a little bit of magic</p>
+                    <p>and <b>write draft story</b> through user flows, sketch, mockups, low and high-fidelity prototypes</p>
+                    <p>and <b>read aloud the story</b> with structurated usability test and data analytics to review relationship between the designed ideas and users</p>
+                    <p>Iterate untill say <i>"I love it when a plan comes together"</i> :&#41;</p>
+                </div>
+                <div class="col-lg-8 col-lg-offset-2">
+                    <h3>Toolkit</h3>
+                    <h4>I always try new design tools (I &#9829 beta and trial version) but I use frequently...</h4>
+                    <ul>                        
+                        <li><b>Research:</b> Pen and Paper, Typeform, Audio-Video recorder, Books and Data</li>
+                        <li><b>Define:</b> Office and G-Docs, Marker and Post-i, mind-maps creator as Xmind</li>
+                        <li><b>Communicate:</b> Illustrator, Premiere, Photoshop, After Effects, Audition</li>
+                        <li><b>Prototype:</b> Marker and Paper, Adobe XD, Invision, Axure PR</li>
+                        <ul>
+                            <li>and: HTML, CSS, JavaScript and libraries, Wordpress</li>
+                            <li>and also: Arduino, Processing</li>
+                        </ul>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+    
+        <!-- Contact Section -->
+<!-- 
+    <section id="contact">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2>Contact Me</h2>
+                    <br>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2">
+                    <!- To configure the contact form email address, go to mail/contact_me.php and update the email address in the PHP file on line 19. ->
+                    <!- The form should work on most web servers, but if the form is not working you may need to configure your web server differently. ->
+                    <form name="sentMessage" id="contactForm" novalidate>
+                        <div class="row control-group">
+                            <div class="form-group col-xs-12 floating-label-form-group controls">
+                                <label>Name</label>
+                                <input type="text" class="form-control" placeholder="Name" id="name" required data-validation-required-message="Please enter your name.">
+                                <p class="help-block text-danger"></p>
+                            </div>
+                        </div>
+                        <div class="row control-group">
+                            <div class="form-group col-xs-12 floating-label-form-group controls">
+                                <label>Email Address</label>
+                                <input type="email" class="form-control" placeholder="Email Address" id="email" required data-validation-required-message="Please enter your email address.">
+                                <p class="help-block text-danger"></p>
+                            </div>
+                        </div>
+                        <div class="row control-group">
+                            <div class="form-group col-xs-12 floating-label-form-group controls">
+                                <label>Phone Number</label>
+                                <input type="tel" class="form-control" placeholder="Phone Number" id="phone" required data-validation-required-message="Please enter your phone number.">
+                                <p class="help-block text-danger"></p>
+                            </div>
+                        </div>
+                        <div class="row control-group">
+                            <div class="form-group col-xs-12 floating-label-form-group controls">
+                                <label>Message</label>
+                                <textarea rows="5" class="form-control" placeholder="Message" id="message" required data-validation-required-message="Please enter a message."></textarea>
+                                <p class="help-block text-danger"></p>
+                            </div>
+                        </div>
+                        <br>
+                        <div id="success"></div>
+                        <div class="row">
+                            <div class="form-group col-xs-12 text-right">
+                                <button type="submit" class="btn btn-lg btn-outline"><b>Send &nbsp; <i class="fa fa-paper-plane-o" aria-hidden="true"></i></b></button>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </section>
+-->    
+    <!-- Footer -->
     <footer class="text-center">
         <div class="footer-below">
             <div class="container">
                 <div class="row">
                     <div class="footer-col col-md-12">
-                        Site under construction</br>
-                        For now, take a look at my <a href="/timeline/index.html" target="_blank">CV timeline <i class="fa fa-external-link"></i></a>
                     </div>
                 </div>
             </div>
         </div>
     </footer>
+    
 <!--
     <!- Portfolio Grid Section ->
     <section id="portfolio">
@@ -185,85 +317,8 @@
         </div>
     </section>
 
-    <!- About Section ->
-    <section class="success" id="about">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12 text-center">
-                    <h2>About</h2>
-                    <hr class="star-light">
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-lg-4 col-lg-offset-2">
-                    <p>Freelancer is a free bootstrap theme created by Start Bootstrap. The download includes the complete source files including HTML, CSS, and JavaScript as well as optional LESS stylesheets for easy customization.</p>
-                </div>
-                <div class="col-lg-4">
-                    <p>Whether you're a student looking to showcase your work, a professional looking to attract clients, or a graphic artist looking to share your projects, this template is the perfect starting point!</p>
-                </div>
-                <div class="col-lg-8 col-lg-offset-2 text-center">
-                    <a href="#" class="btn btn-lg btn-outline">
-                        <i class="fa fa-download"></i> Download Theme
-                    </a>
-                </div>
-            </div>
-        </div>
-    </section>
 
-    <!- Contact Section ->
-    <section id="contact">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12 text-center">
-                    <h2>Contact Me</h2>
-                    <hr class="star-primary">
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-lg-8 col-lg-offset-2">
-                    <!- To configure the contact form email address, go to mail/contact_me.php and update the email address in the PHP file on line 19. ->
-                    <!- The form should work on most web servers, but if the form is not working you may need to configure your web server differently. ->
-                    <form name="sentMessage" id="contactForm" novalidate>
-                        <div class="row control-group">
-                            <div class="form-group col-xs-12 floating-label-form-group controls">
-                                <label>Name</label>
-                                <input type="text" class="form-control" placeholder="Name" id="name" required data-validation-required-message="Please enter your name.">
-                                <p class="help-block text-danger"></p>
-                            </div>
-                        </div>
-                        <div class="row control-group">
-                            <div class="form-group col-xs-12 floating-label-form-group controls">
-                                <label>Email Address</label>
-                                <input type="email" class="form-control" placeholder="Email Address" id="email" required data-validation-required-message="Please enter your email address.">
-                                <p class="help-block text-danger"></p>
-                            </div>
-                        </div>
-                        <div class="row control-group">
-                            <div class="form-group col-xs-12 floating-label-form-group controls">
-                                <label>Phone Number</label>
-                                <input type="tel" class="form-control" placeholder="Phone Number" id="phone" required data-validation-required-message="Please enter your phone number.">
-                                <p class="help-block text-danger"></p>
-                            </div>
-                        </div>
-                        <div class="row control-group">
-                            <div class="form-group col-xs-12 floating-label-form-group controls">
-                                <label>Message</label>
-                                <textarea rows="5" class="form-control" placeholder="Message" id="message" required data-validation-required-message="Please enter a message."></textarea>
-                                <p class="help-block text-danger"></p>
-                            </div>
-                        </div>
-                        <br>
-                        <div id="success"></div>
-                        <div class="row">
-                            <div class="form-group col-xs-12">
-                                <button type="submit" class="btn btn-success btn-lg">Send</button>
-                            </div>
-                        </div>
-                    </form>
-                </div>
-            </div>
-        </div>
-    </section>
+
 
     <!- Footer ->
     <footer class="text-center">
@@ -551,69 +606,22 @@
     <script src="vendor/bootstrap/js/bootstrap.min.js"></script>
 
     <!-- Plugin JavaScript -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
+    <script src="vendor/jquery/jquery.easing.min.js"></script>
 
     <!-- Contact Form JavaScript -->
-<!--    <script src="js/jqBootstrapValidation.js"></script>
+    <script src="js/jqBootstrapValidation.js"></script>
     <script src="js/contact_me.js"></script>
--->
+
     <!-- Theme JavaScript -->
     <script src="js/freelancer.min.js"></script>
     
     <!-- Animazione Logo -->
     <script src="js/walkway.min.js"></script>
-    <script>
-        document.addEventListener('DOMContentLoaded', function() {
-                var ab_logo1 = new Walkway({
-                    selector: '.ab_logo1',
-                    duration: 700,
-                    easing:'easeInQuint'
-                });
-                var ab_logo2 = new Walkway({
-                    selector: '.ab_logo2',
-                    duration: 300,
-                    easing:'easeOutQuint'
-                });
-
-                ab_logo1.draw(function(){ab_logo2.draw();});
-        });
-    </script>
+    <script src="js/logo.js"></script>
     
     <!-- Animazione scritta -->
-    <script src="https://cdn.jsdelivr.net/jquery.typeit/4.2.3/typeit.min.js"></script>
-    <script>
-        $('.skills').typeIt({
-            speed: 50,
-            autoStart: false,
-            loop: true,
-        })
-        .tiType('Engineering')
-        .tiPause(750)
-        .tiDelete()
-        .tiType('Design')
-        .tiSettings({speed: 500})
-        .tiType('...')
-        .tiPause(750)
-        .tiSettings({speed: 50})
-        .tiDelete(3)
-        .tiType(' Thinking')
-        .tiBreak() .tiPause(500)
-        .tiType(' Creative problem solving')
-        .tiSettings({speed: 500})
-        .tiType('...')
-        .tiPause(1000)
-        .tiSettings({speed: 50})
-        .tiDelete()
-        .tiType('User Experience Design')
-        .tiBreak() .tiPause(150)
-        .tiType('Interaction Design')
-        .tiPause(2500)
-        .tiDelete()
-        .tiType(':)')
-        .tiPause(2500);
-        
-    </script>
+    <script src="vendor/typeit/typeit.min.js"></script>
+    <script src="js/scritta.js"></script>
 
 </body>
-
 </html>

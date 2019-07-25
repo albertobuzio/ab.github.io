@@ -83,7 +83,7 @@ header .intro-text .name {
   font-size: 2em;
 }
 header .intro-text {
-  font-size: 2.5em;
+  font-size: 2em;
   font-weight: 300;
 }
 @media (min-width: 768px) {
@@ -92,10 +92,10 @@ header .intro-text {
     padding-bottom: 50px;
   }
   header .intro-text .name {
-    font-size: 2.5em;
+    font-size: 2em;
   }
   header .intro-text {
-    font-size: 2.5em;
+    font-size: 2em;
   }
 }
 .navbar-custom {

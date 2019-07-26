@@ -530,4 +530,5 @@ input[name=andYou]{
 }
 .img_portfolio {
     max-width: 100%;
+    box-shadow: 0 2px 5px 0 hsla(0, 0%, 0%, .26);
 }

@@ -24,7 +24,7 @@ a:hover,
 a:focus,
 a:active,
 a.active {
-  color: #00abab;
+  color: #165c7d;
   outline: none;
 }
 h1,
@@ -49,7 +49,7 @@ hr.star-light {
   border-color: #333;
 }
 hr.star-light:after {
-  background-color: #00abab;
+  background-color: #165c7d;
   color: #333;
 }
 hr.star-primary {
@@ -123,7 +123,7 @@ header .intro-text {
   color: #333;
 }
 .navbar-custom .navbar-nav li a:hover {
-  color: #00abab;
+  color: #165c7d;
   outline: none;
 }
 .navbar-custom .navbar-nav li a:focus,
@@ -147,9 +147,9 @@ header .intro-text {
 }
 .navbar-custom .navbar-toggle:hover,
 .navbar-custom .navbar-toggle:focus {
-  background-color: #00abab;
+  background-color: #165c7d;
   color: #333;
-  border-color: #00abab;
+  border-color: #165c7d;
 }
 @media (min-width: 768px) {
   .navbar-custom {
@@ -281,7 +281,7 @@ section.success {
   opacity: 1;
 }
 .floating-label-form-group-with-focus label {
-  color: #00abab;
+  color: #165c7d;
 }
 form .row:first-child .floating-label-form-group {
   border-top: 1px solid #eeeeee;
@@ -316,7 +316,7 @@ footer .footer-below {
 .btn-outline:focus,
 .btn-outline:active,
 .btn-outline.active {
-  color: #00abab;
+  color: #165c7d;
   background: white;
   border: solid 2px white;
 }
@@ -364,8 +364,8 @@ fieldset[disabled] .btn-primary.active {
 }
 .btn-success {
   color: #333;
-  background-color: #00abab;
-  border-color: #00abab;
+  background-color: #165c7d;
+  border-color: #165c7d;
   font-weight: 700;
 }
 .btn-success:hover,
@@ -397,11 +397,11 @@ fieldset[disabled] .btn-success:active,
 .btn-success.disabled.active,
 .btn-success[disabled].active,
 fieldset[disabled] .btn-success.active {
-  background-color: #00abab;
-  border-color: #00abab;
+  background-color: #165c7d;
+  border-color: #165c7d;
 }
 .btn-success .badge {
-  color: #00abab;
+  color: #165c7d;
   background-color: #333;
 }
 .btn-social {
@@ -531,4 +531,10 @@ input[name=andYou]{
 .img_portfolio {
     max-width: 100%;
     box-shadow: 0 2px 5px 0 hsla(0, 0%, 0%, .26);
+}
+.darkmode-toggle {
+    color:#fff
+}
+.darkmode--activated .fa-adjust{
+    color:#121212    
 }

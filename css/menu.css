@@ -10,11 +10,11 @@
   width: 3.5em;
   height: 3.5em;
   border-radius: 50%;
-  background-color: #00abab;
+  background-color: #165c7d;
   box-shadow: 0 2px 5px 0 hsla(0, 0%, 0%, .26);  
   color: hsl(0, 0%, 100%);
   text-align: center;
-  line-height: 4.3;
+  line-height: 3.8em;
   cursor: pointer;
   outline: 0;
 }
@@ -28,8 +28,8 @@
 }
 
 .circular-menu .floating-btn i {
-  font-size: 2em;
-  transition: transform .2s;  
+  font-size: 1.5em;
+  transition: transform .25s;  
 }
 
 .circular-menu.active .floating-btn i {
@@ -46,7 +46,7 @@
   top: 0;
   right: 0;
   z-index: -2;
-  background-color: #00abab;
+  background-color: #165c7d;
   transition: all .3s ease;
 }
 

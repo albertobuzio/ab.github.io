@@ -1,4 +1,5 @@
 var container = document.getElementById('anim_research');
+console.log(container);
       // Set up our animation 
 
       var animData = {

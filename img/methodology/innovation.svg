@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 520 480" style="enable-background:new 0 0 520 480;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#F58A27;stroke-width:1.5;stroke-miterlimit:10;}
+	.st1{fill:#F58A27;}
+	.st2{font-family:'PoiretOne-Regular';}
+	.st3{font-size:50px;}
+	.st4{fill:none;stroke:#155C7D;stroke-width:1.5;stroke-miterlimit:10;}
+	.st5{fill:#155C7D;}
+	.st6{fill:none;stroke:#CF2127;stroke-width:1.5;stroke-miterlimit:10;}
+	.st7{fill:#CF2127;}
+</style>
+<g>
+    <path class="st0" d="M262.8,5c81.2,0,147,65.9,147,147.1c0,81.3-65.8,147.1-147.1,147.1c-81.2,0-147.1-65.8-147.1-147.1"/>
+    <text transform="matrix(1 0 0 1 111.1064 141.695)" class="st1 st2 st3">Feasibility</text>
+</g>
+<g>
+	<path class="st4" d="M368.6,475c-80.7,0-146.2-65.4-146.2-146.1s65.4-146.2,146.2-146.2c80.7,0,146.1,65.4,146.1,146.2"/>
+	<text transform="matrix(1 0 0 1 345.3276 362.2308)" class="st5 st2 st3">Viability</text>
+</g>
+<g>
+	<path class="st6" d="M6.6,328.9c0-80.7,65.4-146.2,146.1-146.2s146.2,65.4,146.2,146.2c0,80.7-65.4,146.1-146.2,146.1"/>
+	<text transform="matrix(1 0 0 1 2.4761 377.2006)" class="st7 st2 st3">Desirability</text>
+</g>
+</svg>

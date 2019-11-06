@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1920 480" style="enable-background:new 0 0 1920 480;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#666666;stroke-width:2.5;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#264F36;stroke-width:2.5;stroke-miterlimit:10;}
+	.st2{fill:#264F36;}
+	.st3{font-family:'PoiretOne-Regular';}
+	.st4{font-size:80px;}
+	.st5{font-family:'OpenSans';}
+	.st6{font-size:25.3018px;}
+	.st7{fill:#175C7D;}
+	.st8{fill:none;stroke:#175C7D;stroke-width:2.5;stroke-miterlimit:10;}
+	.st9{font-size:25.0045px;}
+	.st10{fill:#F68B27;}
+	.st11{fill:none;stroke:#F68B27;stroke-width:2.5;stroke-miterlimit:10;}
+	.st12{font-size:25.1651px;}
+	.st13{fill:none;stroke:#D02127;stroke-width:2.5;stroke-miterlimit:10;}
+	.st14{fill:#D02127;}
+	.st15{font-size:25.0046px;}
+	.st16{fill:#666666;}
+</style>
+<path class="st0" d="M1748.9,162.4"/>
+<g>
+	<g>
+		<path class="st1" d="M320,165c0,85.6-69.4,155-155,155S10,250.6,10,165S79.4,10,165,10"/>
+		<text transform="matrix(1 0 0 1 33.464 154.9998)" class="st2 st3 st4">Research</text>
+	</g>
+	<text transform="matrix(1 0 0 1 175 31.6823)" class="st2 st5 st6">Get insights to better understand </text>
+	<text transform="matrix(1 0 0 1 175 62.0823)" class="st2 st5 st6">contexts, users and technologies</text>
+</g>
+<g>
+	<g>
+		<g id="manage_txt">
+			<text transform="matrix(1 0 0 1 397.9252 360.9801)" class="st7 st3 st4">Manage</text>
+		</g>
+		<g>
+			<polyline class="st8" points="685.3,315 685.3,160 375.3,160 375.3,470 530.3,470 			"/>
+		</g>
+	</g>
+	<text transform="matrix(1 0 0 1 540.6123 433.2185)" class="st7 st5 st9">Define a clear view of</text>
+	<text transform="matrix(1 0 0 1 540.6123 463.2185)" class="st7 st5 st9">problems and goals</text>
+</g>
+<g>
+	<g>
+		<g id="develop_txt">
+			<text transform="matrix(1 0 0 1 1232.7001 305.0011)" class="st10 st3 st4">Develop</text>
+		</g>
+		<g>
+			<polyline class="st11" points="1240,315 1240,470 1550,470 1550,160 1395,160 			"/>
+		</g>
+	</g>
+	<text transform="matrix(1 0 0 1 1185.2544 181.565)" class="st10 st5 st12">Create prototype</text>
+	<text transform="matrix(1 0 0 1 1242.1544 211.765)" class="st10 st5 st12">to test ideas</text>
+</g>
+<g>
+	<g>
+		<g id="design_circle">
+			<path class="st13" d="M828.9,165c0-85.6,69.4-155,155-155c85.7,0,155,69.4,155,155s-69.4,155-155,155"/>
+		</g>
+		<g id="design_txt">
+			<text transform="matrix(1 0 0 1 821.6053 234.98)" class="st14 st3 st4">Design</text>
+		</g>
+	</g>
+	<text transform="matrix(1 0 0 1 742.1689 283.2183)" class="st14 st5 st15">Ideate and innovate</text>
+	<text transform="matrix(1 0 0 1 741.0689 313.2183)" class="st14 st5 st15">solutions for people</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 1610.0005 106.5651)" class="st16 st5 st12">Evaluate</text>
+	<text transform="matrix(1 0 0 1 1610.0005 136.7651)" class="st16 st5 st12">problem-solution fit</text>
+	<g>
+		<text transform="matrix(1 0 0 1 1631.0425 229.9998)" class="st16 st3 st4">Validate</text>
+		<polyline class="st0" points="1910,240 1600,395 1600,85 		"/>
+	</g>
+</g>
+</svg>

@@ -12,7 +12,7 @@
   border-radius: 50%;
   background-color: #165c7d;
   box-shadow: 0 2px 5px 0 hsla(0, 0%, 0%, .26);  
-  color: hsl(0, 0%, 100%);
+  color: #ffffff !important;
   text-align: center;
   line-height: 3.8em;
   cursor: pointer;

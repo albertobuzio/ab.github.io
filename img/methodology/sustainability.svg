@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 520 480" style="enable-background:new 0 0 520 480;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#155C7D;}
+	.st1{font-family:'PoiretOne-Regular';}
+	.st2{font-size:50px;}
+	.st3{fill:none;stroke:#175C7D;stroke-width:1.5;stroke-miterlimit:10;}
+	.st4{fill:#264F36;}
+	.st5{fill:none;stroke:#264F36;stroke-width:1.5;stroke-miterlimit:10;}
+	.st6{fill:#CF2127;}
+	.st7{fill:none;stroke:#CF2127;stroke-width:1.5;stroke-miterlimit:10;}
+</style>
+<g>
+	<text transform="matrix(1 0 0 1 323.4771 362.2308)" class="st0 st1 st2">Economic</text>
+	<polyline class="st3" points="515,328.9 515,182.7 222.7,182.7 222.7,475 368.9,475 	"/>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 109.1064 141.695)" class="st4 st1 st2">Environmental</text>
+	<polyline class="st5" points="113.9,148.9 113.9,295 406.1,295 406.1,2.7 260,2.7 	"/>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 2.4761 377.2006)" class="st6 st1 st2">Social</text>
+	<polyline class="st7" points="151.1,475 297.3,475 297.3,182.7 5,182.7 5,328.9 	"/>
+</g>
+<line class="st3" x1="222.7" y1="475" x2="368.9" y2="475"/>
+</svg>

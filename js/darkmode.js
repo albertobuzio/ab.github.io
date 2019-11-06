@@ -7,7 +7,6 @@ var options = {
   buttonColorLight: '#fff', // default: '#fff'
   saveInCookies: false, // default: true,
   label: '<i class="fas fa-adjust"></i>',
-  //saveInCookies: false // default: true,
 }
 const darkmode = new Darkmode(options);
 darkmode.showWidget();

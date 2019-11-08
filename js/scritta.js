@@ -26,7 +26,7 @@ let myTypeItInstanceHobby = new TypeIt('#hobby', {
     startDelay: 3200,
     cursor: false,
 })
-.type('Music')
+.type('Sound')
 .pause(2000)
 .delete(5)
 .type('Travel')

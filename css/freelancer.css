@@ -490,3 +490,10 @@ section .row{
 .square_list{
     list-style-type: square;
 }
+
+
+.logo_link{
+    max-width: 56px;
+    padding: 0px;
+    margin-left: 2em;
+}

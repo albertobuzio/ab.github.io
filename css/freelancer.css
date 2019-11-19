@@ -484,7 +484,9 @@ section .row{
 }
 
 .img_portfolio {
-    max-width: 100%;
+    width: 100%;
+}
+.box_portfolio {
     box-shadow: 0 2px 5px 0 hsla(0, 0%, 0%, .26);
 }
 .square_list{

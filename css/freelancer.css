@@ -299,32 +299,22 @@ footer .footer-below {
   background-color: #fff;
 }
 .btn-right {
-  transition: all 0.5s ease-in-out;
-  margin-right: 10px;
   padding: 10px;
+  box-shadow: 0 2px 5px 0 hsla(0, 0%, 0%, .26);
 }
-.btn-right:hover,
-.btn-right:focus,
 .btn-right:active,
 .btn-right.active {
-  border: solid 1px #165c7d;
   background: transparent;
-  transition: all 0.5s ease-in-out;
-  margin-right: 1px;
+  box-shadow: 0 2px 3px 0 hsla(0, 0%, 0%, .16);
 }
 .btn-left {
-  transition: all 0.5s ease-in-out;
-  margin-left: 10px;
   padding: 10px;
+  box-shadow: 0 2px 5px 0 hsla(0, 0%, 0%, .26);
 }
-.btn-left:hover,
-.btn-left:focus,
 .btn-left:active,
 .btn-left.active {
-  border: solid 1px #165c7d;
   background: transparent;
-  transition: all 0.5s ease-in-out;
-  margin-left: 1px;
+  box-shadow: 0 2px 3px 0 hsla(0, 0%, 0%, .16);
 }
 
 .portfolio-modal .modal-content {
@@ -488,6 +478,9 @@ section .row{
 }
 .box_portfolio {
     box-shadow: 0 2px 5px 0 hsla(0, 0%, 0%, .26);
+}
+.box_portfolio:active {
+  box-shadow: 0 2px 3px 0 hsla(0, 0%, 0%, .16);
 }
 .square_list{
     list-style-type: square;

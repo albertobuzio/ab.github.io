@@ -307,15 +307,6 @@ footer .footer-below {
   background: transparent;
   box-shadow: 0 2px 3px 0 hsla(0, 0%, 0%, .16);
 }
-.btn-left {
-  padding: 10px;
-  box-shadow: 0 2px 5px 0 hsla(0, 0%, 0%, .26);
-}
-.btn-left:active,
-.btn-left.active {
-  background: transparent;
-  box-shadow: 0 2px 3px 0 hsla(0, 0%, 0%, .16);
-}
 
 .portfolio-modal .modal-content {
   border-radius: 0;
@@ -392,10 +383,6 @@ section h1{
 .no-space-right {
   margin-right: 0;
     padding-right: 0;
-}
-section .row{
-    margin-top: 15px;
-    margin-bottom: 15px;
 }
 
 .darkmode--activated p, .darkmode--activated li, .darkmode--activated h1, .darkmode--activated h2, .darkmode--activated h3, .darkmode--activated h4, .darkmode--activated h5, .darkmode--activated h6, .darkmode--activated div  {
